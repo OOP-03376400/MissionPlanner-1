@@ -181,7 +181,6 @@
       <Name>ZedGraph</Name>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </ProjectReference>
-    <ProjectReference Include="ExtLibs\Zeroconf\Zeroconf\Zeroconf.csproj" />
     <ProjectReference Include="Updater\Updater.csproj" />
   </ItemGroup>
 
